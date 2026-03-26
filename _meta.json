@@ -1,0 +1,17 @@
+{
+  "name": "zettelkasten-writing-coach",
+  "version": "0.1.0",
+  "status": "draft",
+  "entry": "SKILL.md",
+  "created": "2026-03-25",
+  "updated": "2026-03-25",
+  "publishable": true,
+  "published": false,
+  "author": "Claude Code",
+  "source": [
+    "logseq/pages/卡片盒笔记法 - 知识拓展.md",
+    "logseq/pages/知识框架与读书心得 - 2026 年 2 月更新.md",
+    "高价值内容总榜_Top20_2026-03-25.md",
+    "5个核心Skill定义_2026-03-25.md"
+  ]
+}
