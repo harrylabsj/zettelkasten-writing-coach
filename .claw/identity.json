@@ -1,0 +1,7 @@
+{
+  "name": "zettelkasten-writing-coach",
+  "version": "0.1.0",
+  "description": "Turn scattered notes into atomic notes, connections, and writing structure",
+  "author": "Claude Code",
+  "tags": ["writing", "note-taking", "zettelkasten", "knowledge-management"]
+}
